@@ -1,2 +1,0 @@
-# highlight.js
-highlight.js
